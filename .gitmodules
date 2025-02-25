@@ -5,7 +5,7 @@
 [submodule "WW3"]
   path = WW3
   url = https://github.com/AliS-Noaa/WW3
-  branch = para_outp
+  branch = ufs-optoutp
 [submodule "stochastic_physics"]
   path = stochastic_physics
   url = https://github.com/NOAA-PSL/stochastic_physics
